@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @dboucenna-max
+/src/backend/database.py      @dboucenna-max
+/src/backend/routers/auth.py  @dboucenna-max
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @dboucenna-max
